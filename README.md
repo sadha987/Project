@@ -15,8 +15,4 @@ Css
 Javascript
 
 
-**Screenshots**
-<img src=" https://user-images.githubusercontent.com/24621701/54299996-51335e80-45bc-11e9-80bb-6979f1668364.jpg>
-
-<img src ="https://user-images.githubusercontent.com/24621701/54299995-51335e80-45bc-11e9-969b-b14c492cfe3d.jpg">
 
